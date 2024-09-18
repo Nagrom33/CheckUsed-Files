@@ -1,0 +1,32 @@
+{
+  "name": "checkused-files",
+  "version": "1.0.0",
+  "description": "Check used and unused js, tsx, ts files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagrom33/CheckUsed-Files.git"
+  },
+  "keywords": [
+    "cleaning",
+    "unused",
+    "used",
+    "tools",
+    "react",
+    "typescript",
+    "components"
+  ],
+  "author": "Nagrom33",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagrom33/CheckUsed-Files/issues"
+  },
+  "homepage": "https://github.com/Nagrom33/CheckUsed-Files#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
